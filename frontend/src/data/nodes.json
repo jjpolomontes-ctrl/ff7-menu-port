@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "WINDOWS",
+    "level": 99,
+    "location": "Ávila",
+    "ip": null,
+    "status": "unknown",
+    "os": "Windows",
+    "skills": ["Windows", "PowerShell", "Python", "Java", "Git", "Docker"],
+    "agent": { "enabled": false, "name": null, "version": null },
+    "disks": [null, null],
+    "ramGb": null,
+    "ramUsedGb": null,
+    "cpuPct": null,
+    "image_path": "/portrait.png"
+  },
+  {
+    "id": 2,
+    "name": "DEBIAN",
+    "level": 98,
+    "location": "Ávila",
+    "ip": null,
+    "status": "unknown",
+    "os": "Debian",
+    "skills": ["Linux", "Bash", "Python", "Java", "Git", "Docker"],
+    "agent": { "enabled": false, "name": null, "version": null },
+    "disks": [null],
+    "ramGb": null,
+    "ramUsedGb": null,
+    "cpuPct": null,
+    "image_path": "/portrait.png"
+  },
+  {
+    "id": 3,
+    "name": "Q4OS",
+    "level": 60,
+    "location": "Ávila",
+    "ip": null,
+    "status": "unknown",
+    "os": "Q4OS / Linux",
+    "skills": ["Linux", "Bash", "Python", "Git"],
+    "agent": { "enabled": false, "name": null, "version": null },
+    "disks": [null],
+    "ramGb": null,
+    "ramUsedGb": null,
+    "cpuPct": null,
+    "image_path": "/portrait.png"
+  }
+]
