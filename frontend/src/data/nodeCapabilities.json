@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "source": "mcp",
+  "refreshSeconds": 10,
+  "fields": {
+    "status": "online | offline | unknown",
+    "ip": "string | null",
+    "location": "string",
+    "os": "string",
+    "skills": "string[]",
+    "agent.enabled": "boolean",
+    "agent.name": "string | null",
+    "agent.version": "string | null",
+    "cpuPct": "number | null",
+    "ramGb": "number | null",
+    "ramUsedGb": "number | null",
+    "disks": "number[]"
+  }
+}
